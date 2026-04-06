@@ -6,7 +6,7 @@ public class PlayerController : MonoBehaviour
     private InputActions inputActions;
     private InputAction movement;
     private Rigidbody2D playerRb;
-    public float playerSpeed = 3.0f;
+    private float playerSpeed = 1.0f;
     //private float upperBound = 3.95f;
     //private float lowerBound = -3.95f;
 
